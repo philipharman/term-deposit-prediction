@@ -1,1 +1,1 @@
-web: streamlit run deployed_logreg.py
+web: sh setup.sh && streamlit run deployed_logreg.py
