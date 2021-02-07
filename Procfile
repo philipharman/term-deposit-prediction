@@ -1,1 +1,1 @@
-web: streamlit run deployed_logreg.py
+worker: streamlit run deployed_logreg.py
