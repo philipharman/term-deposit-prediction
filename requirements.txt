@@ -1,5 +1,4 @@
 pandas==0.25.1
 numpy==1.16.5
 scikit-learn==0.24.1
-pickle==4.0
 streamlit==0.76.0
